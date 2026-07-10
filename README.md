@@ -1,10 +1,9 @@
 # RFM Customer Segmentation for Printing & Stationery Business
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" alt="Python 3.10+">
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=matplotlib" alt="Matplotlib">
+  
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=mysql" alt="MYSQL">
+ 
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License MIT">
 </p>
 
