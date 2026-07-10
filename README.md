@@ -3,7 +3,7 @@
 <p align="center">
   
   <img src="https://img.shields.io/badge/SQL-MYSQL-336791?logo=mysql" alt="MYSQL">
- 
+  <img src="https://img.shields.io/badge/POWERBI-336791?logo=powerbi" alt="POWERBI">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License MIT">
 </p>
 
