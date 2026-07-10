@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=mysql" alt="MYSQL">
+  <img src="https://img.shields.io/badge/SQL-MYSQL-336791?logo=mysql" alt="MYSQL">
  
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License MIT">
 </p>
